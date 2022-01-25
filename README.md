@@ -3,4 +3,4 @@ TraversyMVC is an MVC PHP lightweight  framework, created initially by Brad Trav
 
 
 # Disclamer
-This framework is still an alpha stage project, so it is not advisable to use it for production projects yet, it's open source so feel free to edit it and add on it.
+This framework is still an alpha stage project, so it is not advisable to use it for production projects yet, it's open source so feel free to edit it and add on it
